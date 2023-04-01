@@ -1,7 +1,6 @@
 <h1 align="center">Spotify Music Player Bot</h1>
 
-This bot is a music player for Discord servers that allows users to play and search for songs on Spotify. It uses the `Spotipy` library to search for songs and retrieve track information, including preview URLs. Users can search for songs using the `search` command, and select a song from the list of search results to play. The bot also includes commands for playing a specific song, skipping to the next song in the queue, and disconnecting from the voice channel.
-
+This bot is a music player for Discord servers that allows users to play and search for songs on Spotify. It uses the `Spotipy` library to search for songs and retrieve track information, including preview URLs. Users can search for songs using the `search` command, and select a song from the list of search results to play. 
 
 ## Configuration 
 `1` You have to get `client_id` and `client_secret` for the Spotify API. 

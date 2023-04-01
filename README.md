@@ -19,7 +19,7 @@ client_id='your_client_id', client_secret='your_client_secret'
 
 `6` Open Terminal and type : `pip install spotipy`
 
-`7` Then you can Run your code.
+`7` Run
 
 ## ✅ Media of Projects
 

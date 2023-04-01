@@ -2,7 +2,7 @@
 
 This bot is a music player for Discord servers that allows users to play and search for songs on Spotify. It uses the `Spotipy` library to search for songs and retrieve track information, including preview URLs. Users can search for songs using the `search` command, and select a song from the list of search results to play. 
 
-## Configuration 
+## ⚙ Configuration 
 `1` You have to get `client_id` and `client_secret` for the Spotify API. 
 
 `2` Go to the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/getstarted) and log in with your Spotify account.
@@ -21,7 +21,7 @@ client_id='your_client_id', client_secret='your_client_secret'
 
 `7` Then you can Run your code.
 
-## Media of Projects
+## ✅ Media of Projects
 
 * Play cmd
 
